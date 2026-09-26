@@ -1,0 +1,5 @@
+PUBLICAR EN GITHUB PAGES SOLO:
+1. index.html
+2. FICHA_METODOLOGICA_INTEGRIDAD_DRELM_2026.pdf
+
+No subir archivos Excel ni bases de respuestas.
